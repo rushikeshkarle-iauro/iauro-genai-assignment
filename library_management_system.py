@@ -71,7 +71,7 @@ class LibraryManagement:
 def main():
     """This is starting point of program execution"""
     try:
-        obj=library_management()
+        obj=LibraryManagement()
         """Here object is created"""     
         while True:
           print("""Library Management System
