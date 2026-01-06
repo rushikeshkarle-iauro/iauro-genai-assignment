@@ -14,7 +14,7 @@ class Book:
         print("author:",self.author)
         
 
-class library_management:
+class LibraryManagement:
     
     def __init__(self):
         """This is constructor called when objects are created"""
